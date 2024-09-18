@@ -29,7 +29,7 @@
     "eslint-plugin-promise": "^6.1.1"
   },
   "dependencies": {
-    "electron-util": "^0.17.2"
+    "electron-util": "^0.18.1"
   },
   "overrides": {
     "electron": {
